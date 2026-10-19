@@ -3,7 +3,7 @@
   connection: local
   vars:
     sg_id: sg-006aa647aaae5e2ce
-    ami_id: ami-0220d79f3f480ecf5
+    ami_id: ami-0055977a6e828a4f4
     zone_id: Z0052297OSQD07R4N2HT
     domain_name: dillshad.shop
     # instances:
