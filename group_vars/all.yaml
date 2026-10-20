@@ -1,1 +1,2 @@
-SPECIFIC_VAR: specificval
+MONGODB_HOST: mongodb.dillshad.shop
+REDIS_HOST: redis.dillshad.shop
