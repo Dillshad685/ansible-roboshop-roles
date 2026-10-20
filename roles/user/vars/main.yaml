@@ -1,2 +1,2 @@
-MONGODB_HOST:mongodb.dillshad.shop
-REDIS_HOST:redis.dillshad.shop
+MONGODB_HOST: mongodb.dillshad.shop
+REDIS_HOST: redis.dillshad.shop
