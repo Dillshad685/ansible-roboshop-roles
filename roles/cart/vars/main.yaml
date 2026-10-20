@@ -1,2 +1,1 @@
-REDIS_HOST:redis.dillshad.shop
-CATALOGUE_HOST:catalogue.dillshad.shop
+SPECIFIC_VAR: specificval
