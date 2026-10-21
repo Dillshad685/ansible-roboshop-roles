@@ -1,2 +1,9 @@
 MONGODB_HOST: mongodb.dillshad.shop
 REDIS_HOST: redis.dillshad.shop
+MYSQL_HOST: mysql.dillshad.shop
+CART_HOST: cart.dillshad.shop
+USER_HOST: user.dillshad.shop
+RABBITMQ_HOST: rabbitmq.dillshad.shop
+CATALOGUE_HOST: catalogue.dillshad.shop
+SHIPPING_HOST: shipping.dillshad.shop
+PAYMENT_HOST: payment.dillshad.shop
