@@ -1,0 +1,6 @@
+- name: to check include vs import
+  ansible.builtin.debug:
+    msg: "Hi"
+- name: to check again
+  ansible.builtin.debug:
+  msg: "Hello"
