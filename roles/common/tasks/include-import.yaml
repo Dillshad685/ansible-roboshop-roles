@@ -3,4 +3,4 @@
     msg: "Hi"
 - name: to check again
   ansible.builtin.debug:
-  msg: "Hello"
+    msg: "Hello"
